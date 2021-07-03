@@ -1,4 +1,4 @@
-# My extension VSCode
+# My extensions VSCode
 
 Auto Rename Tag
 
