@@ -2,6 +2,7 @@
 
 ## Themes
 * Dracula PRO
+* Dracula Official
 * Omni Theme
 
 ## Extensions
