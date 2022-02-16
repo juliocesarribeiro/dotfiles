@@ -1,5 +1,8 @@
 # My VSCode
 
+## Fonts
+* [FiraCode](https://github.com/tonsky/FiraCode)
+
 ## Themes
 * Dracula PRO
 * Dracula Official
