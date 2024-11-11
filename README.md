@@ -2,12 +2,12 @@
 
 ## Fonts
 * [FiraCode](https://github.com/tonsky/FiraCode)
-
+---
 ## Themes
 * Dracula PRO
 * Dracula Official
 * Omni Theme
-
+---
 ## Extensions
 * Auto Rename Tag
 * Better Comments
